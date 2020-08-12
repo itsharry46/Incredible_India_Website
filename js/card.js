@@ -38,7 +38,6 @@ const toggleExpansion = (element, to, duration = 350) =>
           <p>
             ${type}
           </p>
-         </div>,  <div class="card-content1">
          </div>
       `;
     }
